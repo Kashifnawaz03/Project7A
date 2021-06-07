@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
      
-     <button onClick={initNotificaton}>Configure Notification</button>
+     <button onClick={initNotificaton}>Notification</button>
      <GlobalProvider>
       <Header />
       <div className= 'container'>
